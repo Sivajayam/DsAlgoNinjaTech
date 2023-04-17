@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 
 	@CucumberOptions(
 			
-			features= {"src/test/resources/Features"},//location of feature files
+			features= {"src/test/resources/Features/"},//location of feature files
 			glue="StepDefinition",//location of step definition files
 			plugin= {"pretty","json:target/cucumber.json"
 					,"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
