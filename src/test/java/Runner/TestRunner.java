@@ -11,7 +11,7 @@ import io.cucumber.junit.CucumberOptions;
 			
 			features= {"src/test/resources/Features"},//location of feature files
 			glue="StepDefinition",//location of step definition files
-			plugin= {"pretty","html:target/cucumber.html"
+			plugin= {"pretty","json:target/cucumber.json"
 					,"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
 					,"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
 					,"rerun:target/failedrerun.txt"},//report purpose
