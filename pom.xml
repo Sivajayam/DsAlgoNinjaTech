@@ -123,6 +123,11 @@
 	<build>
 	
     <testSourceDirectory>${project.basedir}/src/test/java</testSourceDirectory>
+    <testResources>
+            <testResource>
+                <directory>${project.basedir}/src/test/resources</directory>
+            </testResource>
+        </testResources>
 		<pluginManagement>
 			<plugins>
 				<plugin>
