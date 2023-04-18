@@ -15,8 +15,8 @@ Examples:
 |UserName|Password|PasswordConfirmation|MSG|
 |SivaShan|DsAlgo@123|DsAlgo@123|"password_mismatch:The two password fields didn’t match."|
 |DianaWill|PeterJack@123|PeterJack@123|"password_mismatch:The two password fields didn’t match."|
-#|RajPatel|TestNg@123 |TestNg@123|"password_mismatch:The two password fields didn’t match."|
-#|HarryPotter|JKRowling@1|JKRowling@1|"password_mismatch:The two password fields didn’t match."|
-#|JackPercy|Jenkin@12|JenKin@12|"password_mismatch:The two password fields didn’t match."|
+|RajPatel|TestNg@123 |TestNg@123|"password_mismatch:The two password fields didn’t match."|
+|HarryPotter|JKRowling@1|JKRowling@1|"password_mismatch:The two password fields didn’t match."|
+|JackPercy|Jenkin@12|JenKin@12|"password_mismatch:The two password fields didn’t match."|
 #|HenryGeorge|Lotus@1234|Lotus@1234|"password_mismatch:The two password fields didn’t match."|
 #|CutteRana|ManoXl@123|ManoXl@123|"New Account Created.You are logged in as FillTeller"|

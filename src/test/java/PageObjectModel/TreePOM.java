@@ -3,6 +3,10 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+
+import Utility.Helper;
+
+import org.openqa.selenium.Alert;
 public class TreePOM {
 	public TreePOM(WebDriver driver) {
 		// TODO Auto-generated constructor stub
@@ -146,8 +150,13 @@ public class TreePOM {
 	{
 		tree_textEditor.sendKeys("print(\"Hello Everyone\" \");");
 		//textEditor.sendKeys(pythonCode);
-		
-	}
+			}
+	public void enterErrorCode()  
+	{
+		//tree_textEditor.sendKeys("print(\"Hello Everyone\" \");");
+		tree_textEditor.sendKeys("pythonCode");
+			}
+	
 	public void clickOnRunBtn()
 	{
 		tree_runBtn.click();	
@@ -161,7 +170,13 @@ public class TreePOM {
 		return output;
 		
 	}
-
+	public void alertaccept()
+	{
+	Alert al = Helper.getDriver().switchTo().alert();
+    // click on OK to accept with accept()
+    al.accept();
+    
+	}
 
 
 }

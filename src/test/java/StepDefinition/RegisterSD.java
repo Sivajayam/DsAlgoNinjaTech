@@ -1,6 +1,6 @@
 package StepDefinition;
 
-import static org.testng.Assert.assertEquals;
+
 
 import org.apache.logging.log4j.LogManager;
 
@@ -30,7 +30,7 @@ public void the_user_fills_the_form(String UserName, String Password, String Pas
 	@Then("The user clicks RegisterButton")
 	public void the_user_clicks_register_button() throws InterruptedException {
 	  	Rp.RegisterButton.click();
-	    Thread.sleep(1000);
+	    
 	   
 	  	Rp.CheckRegisterSuccessMsg();
 	  	log.info("The user clicks RegisterButton");

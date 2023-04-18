@@ -1,5 +1,10 @@
 package StepDefinition;
 import PageObjectModel.TreePOM;
+
+
+
+
+
 import PageObjectModel.BaseClass;
 import Utility.Helper;
 import io.cucumber.java.en.Then;
@@ -326,14 +331,20 @@ public class TreeSD extends BaseClass{
 	@When("User enters the pythonCode of  Implementation of BST page")
 	public void user_enters_the_python_code_of_implementation_of_bst_page() 
 	{
-	    tp.enterCode();
+		
+	   /*Enter wrong python code*/ 
+	   tp.enterErrorCode();
+	   tp.clickOnRunBtn();
+	   
 	}
 
 	@Then("clicks on Run button of Implementation of BST page")
 	public void clicks_on_run_button_of_implementation_of_bst_page() throws InterruptedException
 	{
-	   tp.clickOnRunBtn();
-	   Thread.sleep(1000);
+	
+	  //tp.alertaccept();
+	  Helper.NavBack();
+	   
 	}
 
 }
