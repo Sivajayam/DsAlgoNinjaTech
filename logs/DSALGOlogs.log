@@ -1752,3 +1752,67 @@
 [INFO ] 2023-04-18 09:55:36.731 [main] StackSD - The user clicks Try here in Applications in Stack
 [INFO ] 2023-04-18 09:55:36.822 [main] StackSD - The user enters the invalid Python code in Applications in Stack
 [INFO ] 2023-04-18 09:55:37.911 [main] StackSD - The user clicks Run button in Applications in Stack
+[INFO ] 2023-04-18 10:09:14.172 [main] HomeSD - The user opens DS Algo portal link
+[INFO ] 2023-04-18 10:09:15.826 [main] HomeSD - The user clicks the Get Started button
+[INFO ] 2023-04-18 10:09:15.843 [main] HomeSD - The user opens DS Algo portal link
+[INFO ] 2023-04-18 10:09:16.325 [main] HomeSD - The user opens Home Page
+[INFO ] 2023-04-18 10:09:16.466 [main] HomeSD - The user clicks Sign In
+[INFO ] 2023-04-18 10:09:16.823 [main] HomeSD - The user opens Home Page
+[INFO ] 2023-04-18 10:09:16.979 [main] HomeSD - The user clicks Register
+[INFO ] 2023-04-18 10:09:17.087 [main] HomeSD - The user opens DS Algo portal link
+[INFO ] 2023-04-18 10:09:17.349 [main] HomeSD - The user clicks the Get Started button
+[INFO ] 2023-04-18 10:09:17.359 [main] HomeSD - The user opens DS Algo portal link
+[INFO ] 2023-04-18 10:09:17.504 [main] HomeSD - The user clicks Register
+[INFO ] 2023-04-18 10:09:17.508 [main] RegisterSD - The user is on the Register page
+[INFO ] 2023-04-18 10:09:17.720 [main] RegisterSD - The user fills the form
+[INFO ] 2023-04-18 10:09:19.886 [main] RegisterSD - The user clicks RegisterButton
+[INFO ] 2023-04-18 10:09:19.933 [main] HomeSD - The user opens DS Algo portal link
+[INFO ] 2023-04-18 10:09:20.215 [main] HomeSD - The user clicks the Get Started button
+[INFO ] 2023-04-18 10:09:20.224 [main] HomeSD - The user opens DS Algo portal link
+[INFO ] 2023-04-18 10:09:20.402 [main] HomeSD - The user clicks Register
+[INFO ] 2023-04-18 10:09:20.404 [main] RegisterSD - The user is on the Register page
+[INFO ] 2023-04-18 10:09:20.662 [main] RegisterSD - The user fills the form
+[INFO ] 2023-04-18 10:09:22.886 [main] RegisterSD - The user clicks RegisterButton
+[INFO ] 2023-04-18 10:09:22.923 [main] HomeSD - The user opens DS Algo portal link
+[INFO ] 2023-04-18 10:09:23.223 [main] HomeSD - The user clicks the Get Started button
+[INFO ] 2023-04-18 10:09:23.230 [main] HomeSD - The user opens DS Algo portal link
+[INFO ] 2023-04-18 10:09:23.388 [main] HomeSD - The user clicks Register
+[INFO ] 2023-04-18 10:09:23.391 [main] RegisterSD - The user is on the Register page
+[INFO ] 2023-04-18 10:09:23.719 [main] RegisterSD - The user fills the form
+[INFO ] 2023-04-18 10:09:25.960 [main] RegisterSD - The user clicks RegisterButton
+[INFO ] 2023-04-18 10:09:25.997 [main] HomeSD - The user opens DS Algo portal link
+[INFO ] 2023-04-18 10:09:26.872 [main] HomeSD - The user clicks the Get Started button
+[INFO ] 2023-04-18 10:09:26.882 [main] HomeSD - The user opens DS Algo portal link
+[INFO ] 2023-04-18 10:09:27.351 [main] HomeSD - The user clicks Register
+[INFO ] 2023-04-18 10:09:27.353 [main] RegisterSD - The user is on the Register page
+[INFO ] 2023-04-18 10:09:27.661 [main] RegisterSD - The user fills the form
+[INFO ] 2023-04-18 10:09:30.077 [main] RegisterSD - The user clicks RegisterButton
+[INFO ] 2023-04-18 10:09:30.116 [main] HomeSD - The user opens DS Algo portal link
+[INFO ] 2023-04-18 10:09:30.464 [main] HomeSD - The user clicks the Get Started button
+[INFO ] 2023-04-18 10:09:30.474 [main] HomeSD - The user opens DS Algo portal link
+[INFO ] 2023-04-18 10:09:30.638 [main] HomeSD - The user clicks Register
+[INFO ] 2023-04-18 10:09:30.641 [main] RegisterSD - The user is on the Register page
+[INFO ] 2023-04-18 10:09:30.864 [main] RegisterSD - The user fills the form
+[INFO ] 2023-04-18 10:09:33.038 [main] RegisterSD - The user clicks RegisterButton
+[INFO ] 2023-04-18 10:09:33.078 [main] HomeSD - The user opens DS Algo portal link
+[INFO ] 2023-04-18 10:09:33.405 [main] HomeSD - The user clicks the Get Started button
+[INFO ] 2023-04-18 10:09:33.422 [main] HomeSD - The user opens DS Algo portal link
+[INFO ] 2023-04-18 10:09:33.614 [main] HomeSD - The user clicks Sign In
+[INFO ] 2023-04-18 10:09:33.619 [main] SignINSD - The user is on the SignIn page
+[INFO ] 2023-04-18 10:09:47.149 [main] SignINSD - The user fills the form with the data from sheet
+[INFO ] 2023-04-18 10:09:47.193 [main] SignINSD - The user sign in successfully
+[INFO ] 2023-04-18 10:10:31.410 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-18 10:10:31.724 [main] StackSD - The user clicks Operations in Stack
+[INFO ] 2023-04-18 10:10:31.980 [main] StackSD - The user clicks Try here in Operations in Stack
+[INFO ] 2023-04-18 10:10:32.075 [main] StackSD - The user enters the Python code in Operations in Stackk
+[INFO ] 2023-04-18 10:10:33.206 [main] StackSD - The user clicks Run button in Operations in Stack
+[INFO ] 2023-04-18 10:10:33.493 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-18 10:10:33.725 [main] StackSD - The user clicks Implementation in Stack
+[INFO ] 2023-04-18 10:10:33.951 [main] StackSD - The user clicks Try here in Implementation in Stack
+[INFO ] 2023-04-18 10:10:34.049 [main] StackSD - The user enters the Python code in Implementation in Stack
+[INFO ] 2023-04-18 10:10:35.164 [main] StackSD - The user clicks Run button in Implementation in Stack
+[INFO ] 2023-04-18 10:10:35.587 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-18 10:10:36.312 [main] StackSD - The user clicks Applications in Stack
+[INFO ] 2023-04-18 10:10:36.871 [main] StackSD - The user clicks Try here in Applications in Stack
+[INFO ] 2023-04-18 10:10:36.944 [main] StackSD - The user enters the invalid Python code in Applications in Stack
+[INFO ] 2023-04-18 10:10:38.059 [main] StackSD - The user clicks Run button in Applications in Stack

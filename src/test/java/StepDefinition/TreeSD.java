@@ -331,7 +331,7 @@ public class TreeSD extends BaseClass{
 	{
 		
 	   /*Failure Scenario*/ 
-	   tp.enterCode();
+	   tp.enterErrorCode();
 	 Assert.fail();
 	   
 	}
