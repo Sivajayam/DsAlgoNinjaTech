@@ -330,8 +330,8 @@ public class TreeSD extends BaseClass{
 	public void user_enters_the_python_code_of_implementation_of_bst_page() 
 	{
 		
-	   /*Enter wrong python code*/ 
-	   tp.enterErrorCode();
+	   /*Failure Scenario*/ 
+	   tp.enterCode();
 	 Assert.fail();
 	   
 	}
