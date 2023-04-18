@@ -1,9 +1,7 @@
 package StepDefinition;
 import PageObjectModel.TreePOM;
 
-
-
-
+import org.junit.Assert;
 
 import PageObjectModel.BaseClass;
 import Utility.Helper;
@@ -334,14 +332,14 @@ public class TreeSD extends BaseClass{
 		
 	   /*Enter wrong python code*/ 
 	   tp.enterErrorCode();
-	   tp.clickOnRunBtn();
+	 Assert.fail();
 	   
 	}
 
 	@Then("clicks on Run button of Implementation of BST page")
 	public void clicks_on_run_button_of_implementation_of_bst_page() throws InterruptedException
 	{
-	
+		  tp.clickOnRunBtn();
 	  //tp.alertaccept();
 	  Helper.NavBack();
 	   
